@@ -1,0 +1,33 @@
+body{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(151,205,210,1) 50%);
+   
+
+}
+.butn{
+   background: linear-gradient(90deg, #92EBF1 0%, #86FDE8 100%);
+   border-radius: 30px;
+   border: 0px;
+   width: 150px;
+   height: 40px;
+
+
+}
+.imag{
+    text-align:center;
+    width: 50%;
+    margin-left: 600px;
+    
+    margin-top: -300px;
+    
+}
+.txt{
+    padding-top: 100px;
+}
+.img{
+    
+}
+p{
+    color: gray;
+    padding-top: 30px;
+}
